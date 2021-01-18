@@ -1,0 +1,1 @@
+# Exerc-cio-MNIST-ML-UFSC
